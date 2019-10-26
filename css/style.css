@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body {
+    font-family: 'Heebo', sans-serif;
+}
+
+.container {
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 769px) {
+    .container {
+        width: 70%;
+        max-width: 1000px;
+        margin: 0 auto;
+    }
+
+}
