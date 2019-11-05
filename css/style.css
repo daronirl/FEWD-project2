@@ -6,14 +6,41 @@
 
 }
 
+
+
 .main-nav a {
     color: #000; 
     text-decoration: none;
     text-transform: uppercase;
     font-weight: 900;
     padding-right: 2.5em;
+    
+    
 }
 
+.backgroundc{
+    background-color: rgb(243, 243, 243);
+}
+
+.container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.main {
+    padding-top: 15px;
+}
+
+.main p {
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+
+.port {
+    text-transform: uppercase;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
 
 img {
     width: 100%;
@@ -49,6 +76,16 @@ img {
 .footer-info {
     float:right;
 }
+
+.contact-container h2 {
+    text-transform: uppercase;
+    padding-top: 50px;
+}
+
+hr {
+    width: 90%;
+}
+
 
 
 @media (min-width: 768px) {
